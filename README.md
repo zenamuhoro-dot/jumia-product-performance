@@ -116,6 +116,6 @@ Built an interactive dashboard (`Dashboard` sheet) using PivotTables, PivotChart
 └── jumia_product_performance_analysis.xlsx
 ```
 
-## 8. Author's Note
+## 8. Note
 
 This project was completed as a practice exercise analyzing a real-world-style Jumia product dataset, covering the full workflow from raw data cleaning through to an interactive, slicer-driven Excel dashboard.
